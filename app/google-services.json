@@ -1,35 +1,27 @@
 {
   "project_info": {
-    "project_number": "373900558320",
-    "firebase_url": "https://iscdemo-3974e.firebaseio.com",
-    "project_id": "iscdemo-3974e",
-    "storage_bucket": "iscdemo-3974e.appspot.com"
+    "project_number": "1065809990489",
+    "firebase_url": "https://pruebabetsy.firebaseio.com",
+    "project_id": "pruebabetsy",
+    "storage_bucket": "pruebabetsy.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:373900558320:android:e62bdb53407e5bf0",
+        "mobilesdk_app_id": "1:1065809990489:android:e62bdb53407e5bf0",
         "android_client_info": {
           "package_name": "com.example.betsysanchez.fbaseisc"
         }
       },
       "oauth_client": [
         {
-          "client_id": "373900558320-qbv95q085ojvbgfbt61dvsulutia26g4.apps.googleusercontent.com",
-          "client_type": 1,
-          "android_info": {
-            "package_name": "com.example.betsysanchez.fbaseisc",
-            "certificate_hash": "0c7d8971bff07355bcd35fb624d8aaf7958d951e"
-          }
-        },
-        {
-          "client_id": "373900558320-9rl35l96cah6lmq58dv8puhjjjsm2o43.apps.googleusercontent.com",
+          "client_id": "1065809990489-19c5a7afigrop3nj1io6sdnmp9tta8t5.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyAaErG3XtHtUV5TfbBR69GE8ugBUzs5nQA"
+          "current_key": "AIzaSyDjHIW--thZ1saWvYWcYHGJd2Rr20M5BJs"
         }
       ],
       "services": {
@@ -37,13 +29,8 @@
           "status": 1
         },
         "appinvite_service": {
-          "status": 2,
-          "other_platform_oauth_client": [
-            {
-              "client_id": "373900558320-9rl35l96cah6lmq58dv8puhjjjsm2o43.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "status": 1,
+          "other_platform_oauth_client": []
         },
         "ads_service": {
           "status": 2
